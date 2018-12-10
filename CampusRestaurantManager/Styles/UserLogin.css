@@ -1,0 +1,29 @@
+﻿div {
+    overflow: auto;
+}
+.loginLabel {
+    margin-left: 35%;
+    width: 7%;
+    float: left;
+}
+.SigninBtn {
+    display: inline;
+    margin-top: 10px;
+    margin-left: 42%;
+    width: 100px;
+    float: left;
+}
+.SignupBtn {
+    display: inline;
+    margin-top: 10px;
+    margin-left: 2%;
+    width: 100px;
+    float: left;
+}
+.registerLink {
+    margin-left: 42%;
+}
+
+.ValidUserCustomValidator {
+    margin-left: 42%;
+}

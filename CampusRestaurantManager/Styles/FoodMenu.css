@@ -1,0 +1,18 @@
+﻿.FoodMenu {
+    margin-left:10%;
+    margin-bottom:80px;
+    width:60%;
+    height: 100%;
+    float:left;
+    background-color:antiquewhite;
+}
+.OrderSummaryPanel {
+    width: 25%;
+    height: 100%;
+    float: left;
+    margin-left: 2.5%;
+    margin-right: 2.5%;
+}
+.updateLabel {
+    margin-top:20px;
+}
